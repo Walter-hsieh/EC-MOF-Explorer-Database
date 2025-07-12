@@ -2,7 +2,7 @@
 
 An interactive, searchable, and filterable web application designed to help researchers and students explore a comprehensive database of Electrically-Conductive Metal-Organic Frameworks (EC-MOFs). This tool provides a modern, intuitive interface to discover and compare MOFs based on their constituent metals, ligands, and conductivity.
 
-*(**Action Required:** Replace this link with a screenshot of your live application!)*
+*([**Action Required:** Replace this link with a screenshot of your live application!](https://ec-mof-selector-0ae45af781c0.herokuapp.com/))*
 
 ## ✨ Features
 
